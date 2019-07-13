@@ -1,5 +1,7 @@
 # JTranslator
 
+![GUI screenshot](screenshot.png)
+
 A tool for translating between Russian (*technically, any language with less than 2^19 words*)
 and a language invented by me, consisting of the only word "ГРЁЗОБЛАЖЕНСТВУЮЩИЙ". 
 Encoding is based on the binary system. Written circa 2013 (I was 15 years old).
